@@ -1,4 +1,4 @@
-## 안녕하세요, 김난슬입니다 👋
+## 안녕하세요, 김난슬입니다 🤩
 
 <!--
 **seulnan/seulnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 숭실대학교 IT프로젝트 우수상
 
-2024 슈퍼스타 창업경진대회 우수상
+슈퍼스타 창업경진대회 우수상
 
 
 ### 💼 학력
