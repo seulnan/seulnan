@@ -15,7 +15,8 @@ jobs:
       - name: Fetch WakaTime Stats
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        uses: athul/waka-readme@v2.0.0
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        uses: athul/waka-readme@v2.15.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
