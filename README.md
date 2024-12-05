@@ -48,11 +48,3 @@ Here are some ideas to get you started:
 
 숭실대학교 IT대학 글로벌미디어학부 2023.3 - 현재
 
-### 🕒 WakaTime Stats
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
