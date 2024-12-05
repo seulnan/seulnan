@@ -17,6 +17,7 @@ jobs:
         uses: athul/waka-readme@v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          continue-on-error: true  # API 데이터가 비어 있어도 실패하지 않음
 
       - name: Commit and Push Changes
         run: |
